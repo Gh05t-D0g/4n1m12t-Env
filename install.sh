@@ -65,7 +65,15 @@ cp $ruta/rofi/nord.rasi ~/.config/rofi/themes/
 
 # Instando lsd
 
-sudo dpkg -i $ruta/lsd.deb
+sudo apt install lsd
+
+# INSTALL BURPSUITE
+
+sudo apt install burpsuite
+
+# INSTALL POWERSHELL
+
+sudo apt install pwsh
 
 # Instalamos las HackNerdFonts
 
@@ -126,11 +134,6 @@ sudo chmod +x /usr/local/bin/screenshot
 
 clear
 
-echo "Selecciona un theme en el theme selector"
-echo "Selecciona un theme en el theme selector"
-echo "Selecciona un theme en el theme selector"
-echo "Selecciona un theme en el theme selector"
-echo "Selecciona un theme en el theme selector"
 echo "Selecciona un theme en el theme selector"
 
 
