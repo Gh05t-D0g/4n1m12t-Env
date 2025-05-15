@@ -38,8 +38,7 @@ bspc config paddingless_monocle true
 bspc config single_monocle false
 bspc config focus_follows_pointer true
 
-# VMWARE
-vmware-user-suid-wrapper &
+# RESOLUCION ARANDR
 
 
 # WALLPAPER
